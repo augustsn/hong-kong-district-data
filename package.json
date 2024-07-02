@@ -1,7 +1,7 @@
 {
   "name": "hong-kong-district-data",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.json",
   "repository": "https://github.com/augustsn/hong-kong-district-data",
   "author": "jacky.lau <jacky.lau@augustsn.com>",
   "license": "MIT"
